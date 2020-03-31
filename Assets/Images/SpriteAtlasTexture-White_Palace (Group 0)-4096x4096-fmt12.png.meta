@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 8d9901fd7326e444688c46b04b0d3f5c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_0
+    21300002: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_1
+    21300004: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_2
+    21300006: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_3
+    21300008: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_4
+    21300010: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_5
+    21300012: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_6
+    21300014: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_7
+    21300016: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_8
+    21300018: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_9
+    21300020: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_10
+    21300022: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_11
+    21300024: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_12
+    21300026: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_13
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1533
+        width: 259
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196a267445fbb8e448f8943c3687c45c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1151
+        width: 252
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b3679b03e7b294d917627fef109035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 679
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644beae2bc4c90145ac3cafd8104310d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1255
+        width: 265
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 0, z: 18, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d9fba508ab2294a93d7ede1baff7cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 896
+        width: 138
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18239f1fb0fe174887a7f4d033e17a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2985
+        width: 258
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1710b1fadcdcb043b6cc1f25a737de4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2599
+        width: 140
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2e67e7e327db74580370a3fe7171b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2379
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdfb799b0c265b40bfede5f4fb935a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1973
+        width: 137
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c25ca70c63a2a498048bcd60979b3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 2345
+        width: 216
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e22db8e5e6fc3841b7f1bf568c64003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 93
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af8491ae84dc3f4ea3d0cf9c041d87f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 1937
+        width: 215
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 0, z: 54, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e29c0bb6d61369428e74822ef399c24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1245
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362d46d4562f5804cbb34ec00114c6ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-White_Palace (Group 0)-4096x4096-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2008
+        width: 178
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e70e5f49546ff148be6fea150b81bb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
