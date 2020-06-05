@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 6e0b16dc066ace44ebade63e77ff4662
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_0
+    21300002: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_1
+    21300004: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_2
+    21300006: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_3
+    21300008: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_4
+    21300010: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_5
+    21300012: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_6
+    21300014: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_7
+    21300016: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_8
+    21300018: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_9
+    21300020: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_10
+    21300022: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_11
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 78
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd20b96711dabf4894806f062b39a53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 317
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1685f0ef0c58bc740840bbba76a86cf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 252
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08f52a47abbf7e4d930684d1d29b5d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 260
+        width: 121
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d25af446c87cd48bf2e344ee47eb28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 113
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d86892709db85f4593997288aab7ef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 102
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19896380392a8494a82bf6b121e48243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575bf5e552bc4a0489c1f3fdb88885c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 253
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1c0ac91d67ea64580a5ab0ae45bdb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 211
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904400b946e68154aacf14ad3cdcac5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 99
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e614243234540428a6a27458622ca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 80
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076319fd039c9864bbdc673ab1e8c24f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Tut_Ornaments-512x512-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 68
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8a3d6c7ce5dd9448baaadf63fe3d5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6c89da8377722794f814b5037e402210
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,7 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - cross
+  - enemy
+  - Trap
+  - Bramble
+  - Arc
+  - door
+  - send
+  - boss2akef
+  - ground
+  - trap1
+  - trap2
+  - trap3
+  - trap4
+  - trap5
+  - trap6
+  - trap7
   layers:
   - Default
   - TransparentFX
@@ -17,10 +33,10 @@ TagManager:
   - player
   - upwall
   - damage
-  - 
-  - 
-  - 
-  - 
+  - enemy
+  - cross
+  - atk
+  - npc
   - 
   - 
   - 

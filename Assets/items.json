@@ -1,0 +1,74 @@
+﻿[
+  {
+    "id": 0,
+    "name": "旧骨钉",
+    "sellmoney": 20,
+    "maxhandnum": 1,
+    "type": "武器",
+    "atk": 5,
+    "description": "从沉睡中醒来时就一直伴随着的一把旧骨钉，上面的裂痕似乎诉说着什么--售卖价格20G",
+    "image": "1",
+      "iscanrush": 0
+  },
+  {
+    "id": 1,
+    "name": "开槽骨钉",
+    "sellmoney": 50,
+    "maxhandnum": 1,
+    "type": "武器",
+    "atk": 12,
+    "description": "苍白之石锻造的骨钉，质地非常的坚硬--售卖价格50G",
+    "image": "2",
+    "iscanrush": 0
+  },
+  {
+    "id": 2,
+    "name": "纯粹骨钉",
+    "sellmoney": 500,
+    "maxhandnum": 1,
+    "type": "武器",
+    "atk": 21,
+    "description": "传说可以刺入梦境的骨钉，所以又被称之为梦之钉--售卖价格500G",
+    "image": "3",
+    "iscanrush": 0
+  },
+  {
+    "id": 3,
+    "name": "蜂群集结",
+    "sellmoney": 100,
+    "maxhandnum": 1,
+    "type": "护符",
+    "atk": 0,
+    "description": "扩大自动拾取金币的范围",
+    "image": "soul",
+    "iscanrush": 1
+  }
+  //{
+  //  "id": 4,
+  //  "name": "灵魂捕手",
+  //  "sellmoney": 100,
+  //  "maxhandnum": 1,
+  //  "type": "腕部装备",
+  //  "atk": null,
+  //  "description": "增加攻击到敌人时回复的灵魂数量"
+  //},
+  //{
+  //  "id": 5,
+  //  "name": "血腥月夜",
+  //  "sellmoney": 100,
+  //  "maxhandnum": 1,
+  //  "type": "宝石饰品",
+  //  "atk": null,
+  //  "description": "消耗灵魂回复一点血量"
+  //},
+  //{
+  //  "id": 6,
+  //  "name": "易碎的心脏",
+  //  "sellmoney": 100,
+  //  "maxhandnum": 1,
+  //  "type": "饰品",
+  //  "atk": null,
+  //  "addmaxhp": 2,
+  //  "description": "增加两点最大生命值"
+  //}
+]

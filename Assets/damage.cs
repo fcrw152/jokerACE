@@ -16,12 +16,14 @@ public class damage : MonoBehaviour
     {
         
     }
-    public void OnCollisionStay2D(Collision2D collision)
+    
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        controller player = collision.gameObject.GetComponent<controller>();
+         controller player = collision.gameObject.GetComponent<controller>();
         if (player != null)
         {
             player.changehealth(-1);
         }
     }
+  
 }
